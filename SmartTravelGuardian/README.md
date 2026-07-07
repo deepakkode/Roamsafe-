@@ -99,6 +99,6 @@ src/
 - Invalid: "TN345AS9294" → Shows "NOT REGISTERED" warning
 - Format error: "INVALID123" → Shows validation error
 
-## License
+## Lice
 
 Professional travel safety application for educational and commercial use.
